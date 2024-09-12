@@ -1,1 +1,3 @@
 daftar belanja
+
+-telur 1kg
